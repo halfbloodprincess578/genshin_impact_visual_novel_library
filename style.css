@@ -1,5 +1,13 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
+@font-face {
+  font-family: 'Genshin_Impact';
+  src: url('fonts/Genshin_Impact.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
 body {
 font-family: 'Georgia', 'Times New Roman', serif;
 background: #1a1410;
